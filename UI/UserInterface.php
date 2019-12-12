@@ -1,4 +1,4 @@
-<?php  ?>
+<?php 
 <html>
   <head>
     <title>Firebase Notification</title>
@@ -22,3 +22,4 @@
   </body>
 
 </html>
+?>
